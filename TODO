@@ -1,0 +1,22 @@
+
+Todo:
+  ☐ create app bar in every page with title different
+  ☐ bottom navigation bar in every page
+  Home Page Todo:
+    ☐ Create two tabs Ebooks and audioBook @high
+      Ebook tabs:
+        ☐ Show different horizontal list of ebooks, Fiction & literature, non-fication, Health, mind & body, 
+      Audio books:
+        ☐ Show different horizontal list of audioboooks, Fiction & literature, non-fication, Health, mind & body, 
+  
+  Library Todo:
+    ☐ Show your books in vertical list form @high
+    ☐ when click on book also can read it @low
+     
+  Shop Page Todo:
+    ☐ Create two tabs Ebooks and audioBook @high
+    ☐ Recommandation for you @low need to signin user
+    ☐ 
+
+  Splash page Todo:
+    ☐ give different quotes every time app starts @low 
