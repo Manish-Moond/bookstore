@@ -3,6 +3,7 @@ import 'package:bookstore/dashboard.dart';
 import 'package:bookstore/models/books_list_model.dart';
 import 'package:bookstore/view/account_view.dart';
 import 'package:bookstore/view/books_details_view.dart';
+import 'package:bookstore/view/chat.dart';
 import 'package:bookstore/view/home_view.dart';
 import 'package:bookstore/view/library_view.dart';
 import 'package:bookstore/view/login_view.dart';
@@ -51,6 +52,10 @@ class AppRouter {
             builder: (BuildContext context) => BooksDetailsView(
                   book: routeSettings.arguments as BookInfo,
                 ));
+
+      case RoutesName.chat:
+        return MaterialPageRoute(
+            builder: (BuildContext context) => Chat());
 
       // case RoutesName.dataList:
       //   return MaterialPageRoute(

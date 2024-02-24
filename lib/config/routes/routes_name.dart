@@ -14,4 +14,6 @@ class RoutesName {
   static const String booksGrid = 'books_grid';
 
   static const String dataList = 'data_list_view';
+
+  static const String chat = 'chat_page';
 }

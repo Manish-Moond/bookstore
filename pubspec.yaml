@@ -42,6 +42,7 @@ dependencies:
   fluentui_icons: ^1.0.0
   expandable_text: ^2.3.0
   fluentui_system_icons: ^1.1.205
+  socket_io_client: ^2.0.2
 
 dev_dependencies:
   flutter_test:
